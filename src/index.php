@@ -57,7 +57,8 @@
 
         <H4>Links:</H4>
         <ul>
-            <a href="https://www.google.com/maps/place/World+Sports+Trading+Co.+Ltda/@-34.8633992,-56.1734286,17z/data=!3m1!4b1!4m6!3m5!1s0x959f7f818bc173b7:0x2e73a693d3b87d34!8m2!3d-34.8633992!4d-56.1712399!16s%2Fg%2F11f3r0jjzy"><li>World Sports</li></a>
+            <li><a href="https://www.google.com/maps/place/World+Sports+Trading+Co.+Ltda/@-34.8633992,-56.1734286,17z/data=!3m1!4b1!4m6!3m5!1s0x959f7f818bc173b7:0x2e73a693d3b87d34!8m2!3d-34.8633992!4d-56.1712399!16s%2Fg%2F11f3r0jjzy">World Sports</a></li>
+            <li><a href="https://miro.com/app/board/uXjVMbkg59w=/?share_link_id=528136713438">Big Picture</a></li>
             
         </ul>
 </body>
